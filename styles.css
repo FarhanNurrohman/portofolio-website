@@ -8,10 +8,7 @@
     flex-wrap: column;
     /* Makes the layout responsive */
 }
-.name h3{
-    align-items: center;
-    text-align: center;
-}
+
 .profile-photo {
     width: 150px;
     height: 150px;
