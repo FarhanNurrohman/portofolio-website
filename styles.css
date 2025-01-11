@@ -9,6 +9,10 @@
     /* Makes the layout responsive */
 }
 
+p{
+    text-align:center;
+}
+
 .profile-photo {
     width: 150px;
     height: 150px;
