@@ -21,9 +21,9 @@
 }
 
 .profile-photo {
-    width: 150px;
+    width: 500px;
     align-items: center;
-    height: 150px;
+    height: 500px;
     border-radius: 50%;
     object-fit: cover;
     border: 2px solid #ddd;
